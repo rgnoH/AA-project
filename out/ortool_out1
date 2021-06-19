@@ -1,0 +1,23 @@
+Objective: 73256
+Route for vehicle 0:
+ 0 Load(0.0) ->  43 Load(44.0) ->  44 Load(86.0) ->  28 Load(192.0) ->  33 Load(249.0) ->  29 Load(301.0) ->  27 Load(482.0) ->  6 Load(487.0) ->  5 Load(502.0) ->  7 Load(579.0) ->  35 Load(663.0) ->  3 Load(673.0) ->  4 Load(713.0) ->  36 Load(714.0) ->  38 Load(733.0) ->  37 Load(787.0) ->  9 Load(952.0) ->  24 Load(1646.0) ->  0 Load(1646.0)
+Distance of the route: 34709m
+Load of the route: 1646.0
+
+Route for vehicle 1:
+ 0 Load(0.0) ->  42 Load(66.0) ->  39 Load(154.0) ->  40 Load(195.0) ->  34 Load(223.0) ->  31 Load(275.0) ->  32 Load(1575.0) ->  41 Load(1813.0) ->  30 Load(1930.0) ->  0 Load(1930.0)
+Distance of the route: 10885m
+Load of the route: 1930.0
+
+Route for vehicle 2:
+ 0 Load(0.0) ->  21 Load(83.0) ->  20 Load(199.0) ->  25 Load(772.0) ->  26 Load(773.0) ->  23 Load(1418.0) ->  22 Load(1459.0) ->  19 Load(1575.0) ->  8 Load(2010.0) ->  0 Load(2010.0)
+Distance of the route: 14754m
+Load of the route: 2010.0
+
+Route for vehicle 3:
+ 0 Load(0.0) ->  15 Load(78.0) ->  1 Load(111.0) ->  2 Load(126.0) ->  16 Load(753.0) ->  17 Load(762.0) ->  14 Load(1312.0) ->  13 Load(1330.0) ->  12 Load(1353.0) ->  11 Load(1418.0) ->  18 Load(1514.0) ->  10 Load(1634.0) ->  0 Load(1634.0)
+Distance of the route: 12908m
+Load of the route: 1634.0
+
+Total distance of all routes: 73256m
+Total load of all routes: 7220.0

@@ -1,0 +1,53 @@
+Objective: 88638
+Route for vehicle 0:
+ 0 Load(0.0) ->  0 Load(0.0)
+Distance of the route: 0m
+Load of the route: 0.0
+
+Route for vehicle 1:
+ 0 Load(0.0) ->  58 Load(21.0) ->  10 Load(47.0) ->  31 Load(72.0) ->  55 Load(79.0) ->  25 Load(93.0) ->  50 Load(115.0) ->  18 Load(128.0) ->  24 Load(155.0) ->  0 Load(155.0)
+Distance of the route: 13105m
+Load of the route: 155.0
+
+Route for vehicle 2:
+ 0 Load(0.0) ->  4 Load(30.0) ->  30 Load(52.0) ->  74 Load(62.0) ->  28 Load(91.0) ->  62 Load(109.0) ->  56 Load(135.0) ->  23 Load(141.0) ->  49 Load(146.0) ->  0 Load(146.0)
+Distance of the route: 10427m
+Load of the route: 146.0
+
+Route for vehicle 3:
+ 0 Load(0.0) ->  14 Load(31.0) ->  59 Load(55.0) ->  66 Load(92.0) ->  11 Load(129.0) ->  53 Load(151.0) ->  0 Load(151.0)
+Distance of the route: 9164m
+Load of the route: 151.0
+
+Route for vehicle 4:
+ 0 Load(0.0) ->  16 Load(19.0) ->  3 Load(30.0) ->  44 Load(47.0) ->  32 Load(75.0) ->  9 Load(104.0) ->  39 Load(120.0) ->  72 Load(121.0) ->  65 Load(130.0) ->  38 Load(154.0) ->  0 Load(154.0)
+Distance of the route: 10280m
+Load of the route: 154.0
+
+Route for vehicle 5:
+ 0 Load(0.0) ->  63 Load(11.0) ->  1 Load(29.0) ->  43 Load(47.0) ->  41 Load(62.0) ->  42 Load(73.0) ->  64 Load(101.0) ->  22 Load(113.0) ->  61 Load(128.0) ->  2 Load(154.0) ->  0 Load(154.0)
+Distance of the route: 11540m
+Load of the route: 154.0
+
+Route for vehicle 6:
+ 0 Load(0.0) ->  7 Load(15.0) ->  35 Load(25.0) ->  8 Load(41.0) ->  19 Load(56.0) ->  54 Load(72.0) ->  13 Load(84.0) ->  57 Load(98.0) ->  36 Load(110.0) ->  47 Load(129.0) ->  48 Load(149.0) ->  0 Load(149.0)
+Distance of the route: 11029m
+Load of the route: 149.0
+
+Route for vehicle 7:
+ 0 Load(0.0) ->  5 Load(21.0) ->  37 Load(35.0) ->  20 Load(57.0) ->  70 Load(68.0) ->  60 Load(81.0) ->  71 Load(84.0) ->  69 Load(92.0) ->  21 Load(120.0) ->  73 Load(126.0) ->  33 Load(153.0) ->  0 Load(153.0)
+Distance of the route: 11673m
+Load of the route: 153.0
+
+Route for vehicle 8:
+ 0 Load(0.0) ->  67 Load(30.0) ->  34 Load(49.0) ->  46 Load(76.0) ->  52 Load(95.0) ->  27 Load(112.0) ->  15 Load(120.0) ->  29 Load(133.0) ->  45 Load(154.0) ->  0 Load(154.0)
+Distance of the route: 6315m
+Load of the route: 154.0
+
+Route for vehicle 9:
+ 0 Load(0.0) ->  75 Load(20.0) ->  68 Load(30.0) ->  6 Load(49.0) ->  51 Load(61.0) ->  17 Load(81.0) ->  40 Load(114.0) ->  12 Load(130.0) ->  26 Load(148.0) ->  0 Load(148.0)
+Distance of the route: 5105m
+Load of the route: 148.0
+
+Total distance of all routes: 88638m
+Total load of all routes: 1364.0
